@@ -1,5 +1,5 @@
 # cppmemo
-A C++ template class Memo that provides memoization functionality for any class
+A C++ template class Memo that provides thread-safe memoization functionality for any class
 
 
 
